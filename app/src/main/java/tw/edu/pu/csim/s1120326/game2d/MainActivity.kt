@@ -124,7 +124,6 @@ fun Start(m: Modifier, game:Game){
     }
 
 
-
     Row {
          Button(
             onClick ={
